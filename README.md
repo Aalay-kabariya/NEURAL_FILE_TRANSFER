@@ -37,7 +37,6 @@ A Python implementation of **Neural Style Transfer (NST)** using PyTorch and a p
 
 ## Output  
 ### Sample Input  
-🖼 _Content Image_  
 🖼 _Style Image_ 
  ![Image](https://github.com/user-attachments/assets/d47d89b3-73b3-4161-8e08-3acf4c54f183)
 
